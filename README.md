@@ -1,3 +1,1 @@
-<div src="www.youtube.com.br">
-  Meu Canal no youtube
-</div>
+<a href="www.youtube.com.br">Meu Canal no Youtube</a>
