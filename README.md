@@ -1,4 +1,4 @@
-### Hi there 👋
+E aí, eu me chamo Emanuel, bem vindo ao meu perfil!
 
 <!--
 **EmanuelBezerra/EmanuelBezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
